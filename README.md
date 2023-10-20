@@ -26,7 +26,7 @@
 
 <p>  
    &nbsp; &nbsp; &nbsp; Building an "Login Animation" Android App  in <a href="https://developer.android.com/studio">Android Studio IDE</a>, 
-   using <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html">Java</a> programming language and "<a href="https://developers.google.com/ml-kit">Machine Learning</a>" and implementing the "<a href="https://developer.android.com/jetpack">Android Jetpack</a>" - "<a href="https://developer.android.com/jetpack/androidx/releases/compose-animation">Compose Animation</a>" library.
+   using <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html">Java</a> programming language and implementing the "<a href="https://developer.android.com/jetpack">Android Jetpack</a>" - "<a href="https://developer.android.com/jetpack/androidx/releases/compose-animation">Compose Animation</a>" library.
 
 </p>
 
